@@ -190,9 +190,10 @@ a img{
   height: 560px;
   width: auto;
   background-color: #f0f0f0;
-  background: url('images/meeting.jpg') center 30% no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
+  background: url('images/conn.png') center 30% no-repeat;
+  background-size: contain;
+  background-attachment: fixed; 
+  background-position: 0% 100%
 }
 
 .modu-meeting {
